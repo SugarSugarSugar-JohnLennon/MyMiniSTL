@@ -143,6 +143,10 @@ namespace sugar{
 
     // is_function
 
+    // is_constructible
+
+    // is_convertible
+
 }
 
 #endif // TYPE_TRAITS_H_
